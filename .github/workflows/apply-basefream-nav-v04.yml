@@ -3,6 +3,7 @@ on:
   push:
     paths:
       - 'tools/apply_basefream_nav_v04.py'
+      - '.github/workflows/apply-basefream-nav-v04.yml'
 permissions:
   contents: write
 jobs:
